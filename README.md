@@ -1,5 +1,12 @@
 # Sentiment Analysis of Amazon Reviews
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-purple)
+![TF--IDF](https://img.shields.io/badge/Vectorization-TF--IDF-yellow)
+![SVM](https://img.shields.io/badge/Model-Linear%20SVM-lightgrey)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen)](https://review-sentiment-analyse.streamlit.app/)
+
 This repository contains a complete machine learning project that classifies online product reviews into three sentiment categories: **negative**, **neutral**, and **positive**. The trained model is deployed as a **Streamlit web application** accessible at:
 
 👉 https://review-sentiment-analyse.streamlit.app/
