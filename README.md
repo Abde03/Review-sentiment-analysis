@@ -60,10 +60,10 @@ sentiment_model.pkl
 The trained model is deployed as a web app using Streamlit.
 
 Features :
-✔ Real-time sentiment prediction
-✔ User-friendly interface
-✔ Works with any text input
-✔ Shows how NLP and ML integrate into a simple UI
+- Real-time sentiment prediction 
+- User-friendly interface
+- Works with any text input
+- Shows how NLP and ML integrate into a simple UI
 
 📍 Live app: https://review-sentiment-analyse.streamlit.app/
 
@@ -73,10 +73,10 @@ Features :
 
 Possible enhancements include:
 
-✔ Experiment with transformer-based models (BERT, RoBERTa)
-✔ Add multilingual support
-✔ Provide more interpretability for predictions
-✔ Export as REST API (FastAPI / Flask)
+- Experiment with transformer-based models (BERT, RoBERTa)
+- Add multilingual support
+- Provide more interpretability for predictions
+- Export as REST API (FastAPI / Flask)
 
 ---
 
